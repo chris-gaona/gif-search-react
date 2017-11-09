@@ -1,1 +1,1 @@
-# git-search-react
+# gif-search-react
